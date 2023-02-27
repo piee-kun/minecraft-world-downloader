@@ -18,7 +18,7 @@ jobs:
         with:
           name: downloader 
           path: |
-              work/minecraft-world-downloader/minecraft-world-downloader/target
+              work
   test:
     runs-on: ubuntu-latest
     steps:
